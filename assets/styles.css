@@ -19,4 +19,13 @@ body {
   background-color: var(--light-gray);
   font-family: "Outfit", sans-serif;
   font-size: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: calc(100vh - 1px);
+}
+
+.container {
+  background-color: var(--white);
 }
