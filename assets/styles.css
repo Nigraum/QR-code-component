@@ -30,6 +30,14 @@ body {
   background-color: var(--white);
 }
 
+.container h2 {
+  color: var(--dark-blue);
+}
+
+.container p {
+  color: var(--light-gray);
+}
+
 .attribution {
   font-size: 14px;
   text-align: center;
