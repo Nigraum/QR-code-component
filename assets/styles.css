@@ -39,7 +39,7 @@ body {
   margin-bottom: 1rem;
 }
 
-.container h2 {
+.container h1 {
   color: var(--dark-blue);
   text-align: center;
 }
